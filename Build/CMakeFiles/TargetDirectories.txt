@@ -1,0 +1,2 @@
+/data/data/com.termux/files/home/Projects/SpiderEngineStudio/Build/CMakeFiles/edit_cache.dir
+/data/data/com.termux/files/home/Projects/SpiderEngineStudio/Build/CMakeFiles/rebuild_cache.dir
